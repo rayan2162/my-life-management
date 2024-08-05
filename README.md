@@ -1,8 +1,6 @@
-Here's a project description for your GitHub repository:
-
----
-
 ## My Life Management
+
+- Project Tracker : [Project Management](PROJECT_MANAGEMENT.md)
 
 **My Life Management** is a comprehensive, minimalist productivity tool designed to help you organize and streamline your daily tasks and long-term goals. Built with simplicity in mind, this application integrates various productivity methodologies and tools into one cohesive platform, accessible from web, desktop, and mobile devices.
 
