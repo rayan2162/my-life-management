@@ -1,10 +1,10 @@
-## My Life Management
+# My Life Management
 
 - Project Tracker : [Project Management](PROJECT_MANAGEMENT.md)
 
 **My Life Management** is a comprehensive, minimalist productivity tool designed to help you organize and streamline your daily tasks and long-term goals. Built with simplicity in mind, this application integrates various productivity methodologies and tools into one cohesive platform, accessible from web, desktop, and mobile devices.
 
-### Features
+## Features
 
 - **To-Do List**: Organize your tasks with an intuitive and easy-to-use to-do list. Keep track of what needs to be done and prioritize your daily activities.
 - **Habit Tracker**: Develop and maintain positive habits by tracking your daily routines. Visualize your progress and stay motivated.
@@ -27,5 +27,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ### License
 
 This project is licensed under the MIT License.
-
----
