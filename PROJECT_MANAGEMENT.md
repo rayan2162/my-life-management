@@ -19,9 +19,9 @@
 
 ### Phase 1: Initial Setup
 
-- [x] Set up Laravel project
-- [x] Set up basic routes and controllers
-- [x] Integrate Bootstrap for styling
+- [ ] Set up Laravel project
+- [ ] Set up basic routes and controllers
+- [ ] Integrate Bootstrap for styling
 
 ### Phase 2: To-Do List
 
@@ -101,5 +101,3 @@
 ## License
 
 This project is licensed under the MIT License.
-
----
